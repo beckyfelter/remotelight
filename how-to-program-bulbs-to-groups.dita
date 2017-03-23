@@ -33,7 +33,9 @@
             <stepsection>To program light bulbs to a lighting group:</stepsection>
             <step>
                 <cmd>Make sure your remote control is in range of the light bulbs you are
-                    adding.</cmd>
+                    adding.</cmd> 
+                <info> 
+                    <p conref="c-disclaimer.dita#legal/disclaimer"></p></info>
             </step>
             <step id="step-if-bulb-new">
                 <cmd>If a network light bulb is new, you must install it by performing the following
