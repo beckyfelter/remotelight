@@ -33,6 +33,7 @@
             <step>
                 <cmd>Select the lighting group(s) you want to operate:</cmd>
                 <info>
+                    <p conref="c-disclaimer.dita#legal/disclaimer"></p>
                     <note type="caution">When selecting a lighting group, do not press and hold the
                         lighting group button for longer than 4 seconds. Doing so activates light
                         bulb programming for the selected lighting group.</note>
@@ -75,6 +76,7 @@
             </step>
             <step>
                 <cmd>Turn on, turn off, or dim the lighting group:</cmd>
+                
                 <choicetable id="choicetable-zpb-m4q-3r">
                     <chhead>
                         <choptionhd>For this lighting result...</choptionhd>
