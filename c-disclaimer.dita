@@ -4,7 +4,7 @@
  <title>Using the remote</title>
  <shortdesc>Legal Disclaimer.</shortdesc>
  <conbody>
-  <p id="disclaimer">The remote light is provided without any guarantees or warranty. Product use is at the user's
+   <p id="disclaimer">The <keyword keyref="remote-light"/> is provided without any guarantees or warranty. Product use is at the user's
    risk.</p>
  </conbody>
 </concept>
