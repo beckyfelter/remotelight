@@ -4,7 +4,7 @@
   <title>Light will not turn on</title>
   <troublebody>
     <condition>
-      <p>The <keyword keyref="remote-light"/> light will not turn on</p>
+      <p>The <keyword keyref="remote-light"/> will not turn on</p>
     </condition>
     <troubleSolution>
       <cause>
