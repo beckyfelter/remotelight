@@ -1,9 +1,12 @@
 
 // Auto generated index for searching.
+w["path"]="5*1";
+w["perform"]="3*1";
+w["performance"]="6*28";
 w["performing"]="2*0";
 w["periodically"]="9*1";
 w["persons"]="4*0,5*0,6*0,7*0,8*0";
-w["phone"]="1*26,5*0";
+w["phone"]="1*30,5*0";
 w["place"]="4*0";
 w["plan"]="4*27";
 w["planning"]="4*30";
@@ -39,6 +42,7 @@ w["remains"]="3*0,9*3";
 w["remember"]="2*0";
 w["remote"]="0*31,2*33,3*1,5*4,7*27,8*84,9*64,11*0,12*56,13*52";
 w["remote's"]="13*26";
+w["remotelight"]="1*26";
 w["remotely"]="7*0";
 w["remove"]="2*0";
 w["repeat"]="2*0,3*0";
@@ -86,6 +90,7 @@ w["specific"]="11*27";
 w["specification"]="10*0,12*0";
 w["specifications"]="10*56,11*59,12*56";
 w["spread"]="10*0";
+w["st"]="1*26";
 w["standard"]="2*0,7*0,8*0";
 w["star"]="10*0";
 w["start"]="3*1,6*0";
@@ -137,6 +142,7 @@ w["want"]="2*1,3*2,4*29";
 w["warn"]="4*0,5*0,6*0,7*0,8*0";
 w["warning"]="9*0";
 w["warranty"]="0*0,2*0,3*0";
+w["washington"]="1*26";
 w["way"]="7*0";
 w["ways"]="7*0";
 w["when"]="2*2,3*2,4*0,7*1,9*0";

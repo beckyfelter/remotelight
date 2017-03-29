@@ -1,6 +1,6 @@
 fil = new Array();
 fil["0"]= "c-disclaimer.html@@@Using the remote@@@Legal Disclaimer...";
-fil["1"]= "contactinfo.html@@@Contact Info@@@Phone Number...";
+fil["1"]= "contactinfo.html@@@Contact Info@@@Email : info@remotelight.com 24/7 Help Phone Number : 1-888-1REMOTE Address : 1406 14th St., NW, Washington, DC, 20011...";
 fil["2"]= "how-to-program-bulbs-to-groups.html@@@Programming Light Bulbs to Lighting Groups@@@You can program one or more light bulbs to a lighting group to operate that group with your remote control...";
 fil["3"]= "how-to-turn-on-off-dim-lights.html@@@Turning On/Off or Dimming a Lights@@@You can turn on, turn off, or dim a lighting group by pressing the group number button and then pressing the power button or the dimmer control...";
 fil["4"]= "intro-considerations-planning-light-network.html@@@Considerations for Planning Your Lighting Network@@@Before installing your network lighting, you should plan how you want your lighting network to behave...";
