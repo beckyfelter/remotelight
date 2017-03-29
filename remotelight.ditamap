@@ -31,4 +31,5 @@
  <topicref href="c-disclaimer.dita"/>
  <topicref href="ts-lightoff.dita"/>
  <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
+ <topicref href="contactinfo.md" format="markdown"/>
 </map>
